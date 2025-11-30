@@ -5,12 +5,12 @@
 
 </div>
 
-<h2 align="center">👋 Bonjour ! Je suis <strong>Salma</strong> — Développeuse Web Full-Stack</h2>
+<h2 align="center">👋 Bonjour ! Je suis <strong>Salma Fouaj</strong> — Développeuse Web Full-Stack</h2>
 <p align="center">Laravel • React • Inertia.js • MySQL • MongoDB • Oracle</p>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=salma&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=fouajsalma&style=flat&color=orange)
 
 </div>
 
@@ -20,67 +20,52 @@
 
 - 🌐 Développeuse Web Full-Stack (Laravel + React + Inertia.js)  
 - 🗄️ Passionnée par les bases de données (MySQL, MongoDB, Oracle)  
-- 🎨 Intéressée par le design UI/UX et les interfaces modernes  
 - 🧪 Je crée des applications structurées, performantes et maintenables  
 - 📚 Actuellement en train d’apprendre **Laravel avancé**, **API REST**, **Scrum avec JIRA**  
 - 🎧 J’aime coder en écoutant du LoFi / Chill  
 
 ---
 
-## 🛠️ **Technologies & Outils**
+## 🛠️ Technologies & Outils
 
-### **Langages**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white)
+### Langages & Frameworks
+- 🐘 PHP / Laravel  
+- ⚛️ React / Inertia.js  
+- 🌐 HTML5 / CSS3 / JavaScript  
+- 🗄️ MySQL / MongoDB / Oracle  
 
-### **Frameworks & Bibliothèques**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-593D88?style=flat)
+### Outils
+- 🐱 Git & GitHub  
+- 🖥️ VSCode 
+- 🎨 Figma 
+- 📦 Composer / NPM
+  
+---
 
-### **Bases de données**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+## 📈 Mes compétences (Progress Bars)
 
-### **Outils**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+HTML / CSS  
+▰▰▰▰▰▰▰▰▰▰ 90%  
+
+Laravel  
+▰▰▰▰▰▰▰▰▱▱ 80%  
+
+React  
+▰▰▰▰▰▰▰▱▱▱ 70%  
+
+MySQL  
+▰▰▰▰▰▰▰▰▱▱ 80%  
+
+Git / GitHub  
+▰▰▰▰▰▰▰▰▱▱▱ 60%  
 
 ---
 
-## 💼 Ce que je développe
+## 💼 Projets principaux
 
-- Des applications complètes **Laravel + React + Inertia.js**  
-- Des tableaux de bord et systèmes CRUD  
-- Des plateformes de réservation (voyages, hôtels, événements)  
-- Des bases de données complètes (schémas + procédures + vues)  
-- Des interfaces modernes et responsives  
-- Des API REST sécurisées  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Statistiques générales de GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=fouajsalma&show_icons=true&theme=radical&hide_title=false" height="160"/>
-
-<!-- Répartition des langages par commit -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouajsalma&layout=compact&theme=radical&langs_count=5" height="160"/>
-
-<!-- Graphique par repo et commits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fouajsalma&theme=radical" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fouajsalma&theme=radical" height="160"/>
-
-</div>
-
+- 🏨 **Plateforme de réservation de voyages** : Laravel + React + MySQL  
+- 📚 **Application de gestion de bibliothèque** : CRUD complet, Eloquent relations  
+- 📊 **Dashboard moderne** : filtres, recherche, statistiques  
 
 ---
 
@@ -97,7 +82,9 @@
 ---
 
 ## 📫 Me contacter
-- 📧 Email : fouajsalma40@gmail.com.com
+
+- 💬 Telegram : **@salma_dev**  
+- 📧 Email : **fouajsalma@gmail.com**  
 - 🌐 Portfolio bientôt disponible…  
 
 ---
