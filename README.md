@@ -65,15 +65,22 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+<!-- Statistiques générales de GitHub -->
+<img src="https://github-readme-stats.vercel.app/api?username=fouajsalma&show_icons=true&theme=radical&hide_title=false" height="160"/>
+
+<!-- Répartition des langages par commit -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouajsalma&layout=compact&theme=radical&langs_count=5" height="160"/>
+
+<!-- Graphique par repo et commits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fouajsalma&theme=radical" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fouajsalma&theme=radical" height="160"/>
 
 </div>
+
 
 ---
 
