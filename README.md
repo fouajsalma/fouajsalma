@@ -1,7 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-
 </div>
 
 <h2 align="center">👋 Bonjour ! Je suis <strong>Salma Fouaj</strong> — Développeuse Web Full-Stack</h2>
